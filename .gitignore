@@ -1,0 +1,7 @@
+*.log
+*.idea
+# sbt specific
+dist/*
+target/
+project/target/*
+project/project/*
